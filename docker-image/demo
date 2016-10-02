@@ -1,0 +1,2 @@
+docker pull opennetworkinsight/oni-demo
+docker save -o 20161002_apachespot_oni-demo.docker opennetworkinsight/oni-demo
